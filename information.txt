@@ -1,0 +1,19 @@
+Features Considered:
+1. Financial Features:
+-> Historical Stock Price
+-> Trading Volume
+-> Moving Averages
+-> Volatility Measures
+-> Technical Indicators - RSI, MACD, VIX
+-> Fundamental Ratios - P/E ratio, earnings per share, price-to-book ratio
+
+2. Macro Economic Features:
+-> Interest Rates
+-> Inflation Rates
+-> GDP Growth 
+-> Currency Exchange Rates
+
+3. Market Sentiment Features:
+-> News Sentiment
+-> Social Media Sentiment
+-> Economic Indicators
